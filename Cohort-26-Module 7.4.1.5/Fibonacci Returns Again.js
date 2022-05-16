@@ -33,4 +33,3 @@ function runProgram(input) {
          process.exit(0);
      });
  }
- 
