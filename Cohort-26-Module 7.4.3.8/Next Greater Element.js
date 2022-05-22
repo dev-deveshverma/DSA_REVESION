@@ -1,4 +1,3 @@
-//Enter code here
 function runProgram(input) {
     input = input.split("\n");
     let tc = +input[0];
