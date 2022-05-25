@@ -1,4 +1,4 @@
-//Em
+
 function runProgram(input) {
     input=input.split('\n');
         let arr=input[1].split(" ").join("");
